@@ -1,0 +1,17 @@
+D:\C# lesson\AvoidGrenade\AvoidGrenade\bin\Debug\net8.0-windows\AvoidGrenade.exe
+D:\C# lesson\AvoidGrenade\AvoidGrenade\bin\Debug\net8.0-windows\AvoidGrenade.deps.json
+D:\C# lesson\AvoidGrenade\AvoidGrenade\bin\Debug\net8.0-windows\AvoidGrenade.runtimeconfig.json
+D:\C# lesson\AvoidGrenade\AvoidGrenade\bin\Debug\net8.0-windows\AvoidGrenade.dll
+D:\C# lesson\AvoidGrenade\AvoidGrenade\bin\Debug\net8.0-windows\AvoidGrenade.pdb
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.Form1.resources
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.Properties.Resources.resources
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.csproj.GenerateResource.cache
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.AssemblyInfoInputs.cache
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.AssemblyInfo.cs
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.csproj.CoreCompileInputs.cache
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.dll
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\refint\AvoidGrenade.dll
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.pdb
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\AvoidGrenade.genruntimeconfig.cache
+D:\C# lesson\AvoidGrenade\AvoidGrenade\obj\Debug\net8.0-windows\ref\AvoidGrenade.dll
